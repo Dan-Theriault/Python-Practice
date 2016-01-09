@@ -1,9 +1,9 @@
 import random
 
-white_pot = range(59)
+white_pot = range(69)
 for ball in white_pot:
     ball += 1
-red_pot = range(35)
+red_pot = range(25)
 for ball in red_pot:
     ball += 1
 
